@@ -1,0 +1,2 @@
+DESC='Monorepo for customer ordering, admin dashboard, kitchen display and rider delivery apps'
+TOPICS=food-delivery,react-native,expo,nextjs,prisma,postgresql,socket-io,monorepo
